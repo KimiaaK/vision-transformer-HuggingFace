@@ -1,3 +1,5 @@
+# This file will handle data loading, transformations, and splitting into training and test sets.
+
 import os
 import splitfolders
 import torch
