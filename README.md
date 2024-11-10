@@ -39,6 +39,9 @@ Utilizing this model result in :
 - F1 Score: 0.983
 - Accuracy: 0.984
 
+
 The confusion matrix is as follows:
+
+
 <img src="vit-images/conf-mat.png" alt="image" width="500">
 
