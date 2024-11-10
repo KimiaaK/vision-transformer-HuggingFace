@@ -33,4 +33,12 @@ This study was conducted on seven strawberry diseases shown below:
 
 <img src="vit-images/disease.png" alt="image" width="500">
 
+Utilizing this model result in :
+- Precision: 0.983
+- Recall: 0.983
+- F1 Score: 0.983
+- Accuracy: 0.984
+
+The confusion matrix is as follows:
+<img src="vit-images/conf-mat.png" alt="image" width="500">
 
