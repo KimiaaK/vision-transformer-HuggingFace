@@ -31,5 +31,6 @@ The architecture of the vision transformer is shown below:
 
 This study was conducted on seven strawberry diseases shown below:
 
-![image](vit-images/disease.png){width=50%}
+<img src="vit-images/disease.png" alt="image" width="500">
+
 
