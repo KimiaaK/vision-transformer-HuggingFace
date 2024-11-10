@@ -22,7 +22,7 @@ Instead of raw image patches, the input sequence can be made from feature maps o
 
 A sequence of embedded image patches, with a learnable class embedding prepended to the sequence, was taken as input to the encoder, augmented with positional information. The self-attention mechanism, a key component of the transformer architecture, was employed. Importance scores were assigned to patches by the model, allowing it to understand the relationship between different parts of an image and focus on the most relevant information. This aids in better comprehension of the image and enables the model to perform various computer vision tasks. Following this, a classification head attached to the output of the encoder received the value of the learnable class embedding to output a classification label.
 
-The architecture of vision transformer is shown below:
+The architecture of the vision transformer is shown below:
 
 
 ![image](vit-images/vit-arch.png)
@@ -31,5 +31,5 @@ The architecture of vision transformer is shown below:
 
 This study was conducted on seven strawberry diseases shown below:
 
-![image](vit-images/diseases.png)
+![image](vit-images/disease.png)
 
